@@ -1,0 +1,8 @@
+.sell{
+    border: 1px solid #eee;
+    margin-top: 30px;
+    /* border-collapse: collapse; */
+}
+.sell td,.sell th{
+    border: 1px solid #eee;
+}
